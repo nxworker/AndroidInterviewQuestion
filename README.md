@@ -15,5 +15,3 @@
 中文：http://www.tuicool.com/articles/7nqiyyb
 
 ---
-
-安卓面试题分享
